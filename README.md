@@ -156,4 +156,3 @@ For production, you can switch to PostgreSQL or MySQL by updating the `DATABASES
 ## License
 
 This project is created for Upteky Solution Pvt. Ltd. SDE Intern Task.
-
